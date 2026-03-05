@@ -1,4 +1,4 @@
-module github.com/krisavdome/disshkographia
+module github.com/diskographia/disshkographia
 
 go 1.26.0
 
